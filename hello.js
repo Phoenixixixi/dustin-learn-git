@@ -8,3 +8,5 @@ console.log('make a conflict on github')
 console.log('ini versi github')
 
 console.log('gabungin dari lokal dong')
+
+console.log('gabungin dari girhub')
