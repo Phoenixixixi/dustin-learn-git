@@ -1,6 +1,6 @@
-console.log("hello i'm learn git");
-const pesan = "we learn for future";
-const name = 'dustin';
-console.log(pesan);
+console.log("hello i'm learn git")
+const pesan = 'we learn for future'
+const name = 'dustin'
+console.log(pesan)
 
-consoe.log("make a conflict on github");
+consoe.log('make a conflict on github')
