@@ -5,4 +5,4 @@ console.log(pesan)
 
 console.log('make a conflict on github')
 
-console.log('ini versi lokal')
+console.log('ini versi github')
