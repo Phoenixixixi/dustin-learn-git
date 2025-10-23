@@ -3,4 +3,4 @@ const pesan = 'we learn for future'
 const name = 'dustin'
 console.log(pesan)
 
-consoe.log('make a conflict on github')
+console.log('make a conflict on github')
