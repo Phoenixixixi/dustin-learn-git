@@ -10,3 +10,5 @@ console.log('ini versi github')
 console.log('gabungin dari lokal dong')
 
 console.log('gabungin dari girhub')
+
+console.log('latihan pake stash')
